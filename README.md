@@ -1,6 +1,6 @@
 [<img src="https://avatars2.githubusercontent.com/u/29404381?s=200&v=4" align="right" width="141" height="143">](https://github.com/brillout/awesome-angular-components)
 
-# Angular Moscow Meetup [![Angular-Piter]](https://t.me/angular_piter)
+# Angular Moscow Meetup [![Angular-Piter](https://img.shields.io/badge/Telegram_chat:-Angular_Piter-216bc1.svg?style=flat)](https://t.me/angular_piter)
 
 
 ### Angular Piter — встреча для профессионалов фронтэнда в городе Санкт-Питербург
